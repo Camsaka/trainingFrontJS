@@ -5,6 +5,6 @@ console.log("Salut la console");
 
 
 let firstElement = document.createElement("p");
-firstElement.textContent = "oibevponôznônze";
+firstElement.textContent = `Magie ${varTest}`;
 
 document.body.appendChild(firstElement);
